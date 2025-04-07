@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Neelkd007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Multiple Genome Alignment Pipeline
+This project offers a simplified pathway for aligning multiple genome in various organisms. It is intended to be scalable, reproducible, and simplle to integrate into comparative genomics procedures.
 
-<!---
-Neelkd007/Neelkd007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Features
+
+- Multiple entire genomes are aligned [MAFFT/MUGSY/Mauve/etc.]
+- It produce alignment file formats, such as fasta.
+- Generates summary statistics (alignment score, conserved regions, gaps)
+- Easily customizable and extendable
+
+## Directory Structure
+
+
